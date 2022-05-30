@@ -5,3 +5,5 @@
 .idea
 __pycache__
 .vscode
+test.db
+code-img.jpg

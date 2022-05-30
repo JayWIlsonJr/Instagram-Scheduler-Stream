@@ -1,1 +1,3 @@
 flask
+slask-security-too
+sqlalchemy
